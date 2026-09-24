@@ -9,5 +9,6 @@
 - 這學期的目標：歐趴、股票發大財
 
 ##我的作品
-[中原智運]（https://icbd.cycu.edu.tw/）
+[中原智運](https://icbd.cycu.edu.tw/)
+
 
